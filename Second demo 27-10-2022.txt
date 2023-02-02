@@ -1,0 +1,89 @@
+27-10-2022
+=========
+
+		a) Hoping you received yesterday's demo video and document. If not, kindly provide your email address in the chat room.
+			You can see the demo videos in the youtube also with yesterday's date.
+		b) Today's agenda
+			
+			Recap of first demo 15 minutes  [Data-->Power Platform hierarchy]
+
+			Fresh part: 45 minutes  [ Practical of Power BI: Download, Installation, medium level practice]
+			
+			Session will continue till 10.10 am
+
+
+			MSBI:  [On-Premise BI]
+				A SSBI suite with multiple tools to perform end-end BI operations [Data--> BI Data]
+				Note: Full supportibve for On-Premise
+			
+			Power BI:
+				A SSBI application to perform end-end operations [Data--> BI Data]
+
+				Note: Cloud and On-Premise supportive
+			Azure BI: [Cloud BI]
+				Azure is a cloud platform from MS, it has manu services, if you perform BI services...then it is Azure BI.
+
+				Note: Azure BI physically not available	
+
+
+				Azure level data enginerring features avialable, for reporting, they need to come to Power BI.
+
+
+
+		Powerr BI Components:
+		
+		a) CLoud Operations [ Cloud storage and cloud management: Cloud is MS]
+				Two major components
+				a) Cloud Power BI Desktop [yellow color]
+				b) Cloud Service [Power BI Service : app.powerbi.com]
+
+
+		b) On-Premise operations  [ On-Premise storage and management: MS SQL Server ]
+				Two major components
+				a) Power BI Report Server Desktop 
+				b) Power BI Report Server
+
+		c) Additional
+			Paginated Reporting: Power BI Report Builder
+
+			Power BI Developer
+			Power BI Embedding
+			Mobile Publisher etc.
+
+
+		Power BI Desktop: Daily you work with this component in real-time
+
+			Desktop: Multiple graphical operations implementation component
+			PBI Desktop: Set of Power BI graphical operations component.
+
+			Why?
+				This is SSBI application to perform end-end operations.
+				Data--> Power BI Desktop--> BI Data
+
+
+			What it has?
+				Multiple concepts to implement BI operations?
+				
+				Power Query, Power Pivot, Power View , Power Map
+
+			Software download? 
+				Free, No licence required
+			Software requirements:
+
+				Note: Follow the download time requirements
+				In general,
+				Windows 8 or 10 or above, Min 2 GB RAM, Min 1.5 Ghz etc.
+
+			Desktop Input and Output?
+				Any data, Any where, Any type Data--> BI Process implemented--> BI Data [ PBI Desktop Document .pbix]
+
+
+		
+	You have joined here to learn detailed subject from basics to advanced. Training duration 60 hours...have patience to attend all sessions.
+	
+	Don't compare with other instututes and online portals...you may find reports/ dashabords which are more colorful...
+	
+	Subjective learning ...
+
+	=====================================================================================
+okkkk
